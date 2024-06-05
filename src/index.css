@@ -1,0 +1,75 @@
+.container-personagem {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.imagem-personagem {
+  text-align: center;
+}
+
+.imagem-personagem img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.info-personagem {
+  margin-top: 20px;
+}
+
+.info-personagem h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.lista-episodios {
+  margin-top: 20px;
+}
+
+.lista-episodios h2 {
+  font-size: 20px;
+}
+
+.container-botoes {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.container-busca {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#entrada-id-personagem {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+#botao-buscar {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+#botao-buscar:hover {
+  background-color: #0056b3;
+}
+
+button {
+  padding: 5px 10px;
+  margin-right: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
